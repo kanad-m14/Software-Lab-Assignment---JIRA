@@ -1,0 +1,19 @@
+
+            CHAPTER 1: INTRODUCTION TO CALCULUS
+            
+            Mathematics is the foundation of science and engineering. In this chapter, we will explore 
+            the fundamental concepts of calculus. Calculus is a branch of mathematics that deals with 
+            continuous change. The two main branches of calculus are differential calculus and integral 
+            calculus. Differential calculus focuses on rates of change and slopes of curves. Integral 
+            calculus deals with accumulation of quantities and areas under curves.
+            
+            The concept of limits is fundamental to calculus. A limit describes the behavior of a 
+            function as its input approaches a particular value. Functions and their properties are 
+            essential in understanding calculus. We will study various types of functions including 
+            polynomial functions, trigonometric functions, and exponential functions.
+            
+            Derivatives represent the rate of change of a function. The derivative of a function 
+            measures how the function changes as its input changes. Integration is the reverse process 
+            of differentiation. Through integration, we can find areas, volumes, and solve many 
+            practical problems in physics and engineering.
+            
